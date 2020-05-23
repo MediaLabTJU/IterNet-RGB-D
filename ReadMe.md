@@ -144,7 +144,7 @@ Table 1 compares various publicly available 2.5/3D indoor datasets with our Iter
 Figure 1 shows some examples of different scenarios in our dataset.  It can be seen that our dataset contains more complex indoor layouts, richer textures, colorful and realistic lightings, and higher resolution images, which are more photorealistic and closer to real-world images.
 
 <p align="center">
-  <img src="resource/dataset.png" width=892 height=584>
+  <img src="resource/dataset.png" width=892 height=484>
 </p>
 
 #### 2. Details
