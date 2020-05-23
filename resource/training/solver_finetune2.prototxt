@@ -1,0 +1,23 @@
+net: "CCRF_NYU_finetune2.prototxt"  
+	#iter_step: 2  
+	#test_iter: 1000  
+	#test_interval: 500  
+	#test_initialization: false
+iter_size:2
+display: 1  
+base_lr: 1e-12
+solver_type: SGD
+lr_policy: "step"#"multistep"
+stepsize: 2000  
+	#stepvalue: 150000  
+	#stepvalue: 300000  
+gamma: 0.1  
+max_iter: 600000  
+momentum: 0.9
+#momentum2:0.999
+#delta:1e-8  
+weight_decay: 0.0005 
+#clip_gradients: 1
+snapshot: 200  
+snapshot_prefix: "/home/Xu/3weijia_dataset/DL/model2/model"  
+solver_mode: GPU  
