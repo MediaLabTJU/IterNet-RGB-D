@@ -142,7 +142,8 @@ Table 1 compares various publicly available 2.5/3D indoor datasets with our Iter
     </table>
 
 Figure 1 shows some examples of different scenarios in our dataset.  It can be seen that our dataset contains more complex indoor layouts, richer textures, colorful and realistic lightings, and higher resolution images, which are more photorealistic and closer to real-world images.
-![Figure 1](https://github.com/MediaLabTJU/IterNet-RGB-D/blob/master/resource/dataset.png)
+
+![Figure 1](resource/dataset.png)
 
 #### 2. Details
 Each sample of the dataset is composed of 4 parts. The picture in jpeg format represents RGB image, and the "zDepth" suffix is the depth image. The remaining picture suffixed with "VRayObjectID" and a "txt" file together to express semantic information of the scene. Each combination of RGB corresponds to a material id, which corresponds to an object category.
