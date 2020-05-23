@@ -156,7 +156,7 @@ We divide the dataset into two parts for everyone to use. The first part of the 
 Figure 2 shows our proposed *IterNet* architecture, which is uesd for itertive joint optimiation for depth estimation and semantic segmntation. More Deatails can be found in the paper.
 
 <p align="center">
-  <img src="resource/joint_merge2.png" width=892 height=584>
+  <img src="resource/joint_merge2.png" width=892 height=384>
 </p>
 
 
