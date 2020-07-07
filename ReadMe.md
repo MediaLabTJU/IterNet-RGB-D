@@ -143,7 +143,6 @@ Figure 1 shows some examples of different scenarios in our dataset.  It can be s
 
 <p align="center">
   <img src="resource/dataset.png" width=892 height=484>
- Figure 1  Some examples of different scenarios in our dataset.
 </p>
 
 #### 2. Details
