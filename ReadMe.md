@@ -148,7 +148,7 @@ Figure 1 shows some examples of different scenarios in our dataset.  It can be s
 #### 2. Details
 Each sample of the dataset is composed of 4 parts. The picture in jpeg format represents the RGB image, and the "zDepth" suffix is the depth image. The remaining picture suffixed with "VRayObjectID" and a "txt" file express the semantic information of the scene. Each combination of RGB corresponds to a material id, which corresponds to an object category.
 
-We divide the dataset into two parts for everyone to use. The first part is artificially filtered, in which a small amount of scenes is removed (when the window is rendered, it is rendered outdoors). The second part is not processed manually, and the scenes are more abundant. You can download the dataset from [Google Drive](https://drive.google.com/drive/folders/1JsnWBIJqdCh32GXmFAd7VXqqJxH3PRSw?usp=sharing).
+We divide the dataset into two parts for everyone to use. The first part is artificially filtered, in which a small amount of scenes is removed (when the window is rendered, it is rendered outdoors). The second part is not processed manually, and the scenes are more abundant. You can download the dataset from [MEGA](https://mega.nz/folder/uuYmDSSZ#RPnY5osSeXC6t4Dz-XiSmg).
 
 ### Code
 Figure 2 shows our proposed *IterNet* architecture, which is uesd for itertive joint optimiation for depth estimation and semantic segmntation. More implementation deatails can be found in the paper.
